@@ -1,1 +1,1 @@
-Pero, ¿sólo vamos a usar hilo de color negro? :persevere: ¡Veamos qué otros colores vamos a usar!
+Pero, ¿sólo vamos a usar hilo de color negro? :persevere: ¡Veamos qué otros colores hay!
