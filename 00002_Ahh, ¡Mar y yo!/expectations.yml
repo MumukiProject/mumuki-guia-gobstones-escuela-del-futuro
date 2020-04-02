@@ -10,13 +10,13 @@ expectations:
   binding: "*"
   inspection: DeclaresComputationWithArity1:Bordar
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: program
+  binding: "*"
   inspection: Declares:hiloNegro
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: program
+  binding: "*"
   inspection: Declares:hiloAmarillo
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: program
+  binding: "*"
   inspection: Declares:hiloCeleste
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: program
