@@ -8,7 +8,7 @@ expectations:
   inspection: Uses:BordarFranja
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: Intransitive:program
-  inspection: Not:Uses:Bordar
+  inspection: Not:Uses:Bordar_
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: Intransitive:program
   inspection: Not:UsesWhile
@@ -20,4 +20,4 @@ expectations:
   inspection: UsesWhile
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: BordarFranja
-  inspection: Uses:Bordar
+  inspection: Uses:Bordar_
