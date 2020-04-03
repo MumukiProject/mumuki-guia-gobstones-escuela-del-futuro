@@ -8,4 +8,4 @@ expectations:
   inspection: Uses:BordarSol
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: Intransitive:program
-  inspection: Not:Uses:Bordar
+  inspection: Not:Uses:Bordar_
