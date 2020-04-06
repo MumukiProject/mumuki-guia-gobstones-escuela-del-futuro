@@ -4,4 +4,4 @@
 
 Tenemos la bandera lista. Ya creamos el programa para bordarla, ahora nos toca crear el programa para izarla. ¡Manos al teclado! :keyboard:
 
-> Definí e invocá el procedimiento `Izar bandera` para que suba la bandera. Para eso, definí el procedimiento `Mover bandera` con el parámetro `direccion` para que corra de casillero una bolita roja y otra azul, en la dirección que se le indique.
+> Definí e invocá el procedimiento `Izar bandera` para que suba la bandera. Para eso, definí el procedimiento `Mover bandera` con el parámetro `direccion` para que corra de casillero a la bandera (una bolita roja y otra azul), en la dirección que se le indique.
