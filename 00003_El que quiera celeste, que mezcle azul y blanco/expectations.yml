@@ -1,7 +1,7 @@
 ---
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: program
+  binding: "*"
   inspection: Declares:BordarFranja
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: program
